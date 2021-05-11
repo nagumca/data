@@ -1,0 +1,30 @@
+{
+    "error": false,
+    "errors": null,
+    "data": {
+        "tenantId": 1,
+        "language": "english",
+        "salesRep": [
+            {
+                "id": 1,
+                "code": 1005126,
+                "name": "Arunkishore",
+                "designation": "ZBM",
+                "region": "KOLKATA ZBM WH",
+                "mobile": "9902392342",
+                "email": "arun.venkatesh@indegene.com",
+                "division": "Womens Health"
+            },
+            {
+                "id": 2,
+                "code": 1002000,
+                "name": "Nagarajan",
+                "designation": "RBM",
+                "region": "CUTTACK RBM WH",
+                "mobile": "999999999",
+                "email": "Nagarajan.Thangapandi@indegene.com",
+                "division": "Womens Health"
+            }
+        ]
+    }
+}
